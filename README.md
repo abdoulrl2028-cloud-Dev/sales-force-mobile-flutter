@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/sales.jpg" alt="Força de vendas em Flutter" width="100%">
+</p>
+
 # Sales Force Mobile Flutter
 
 Aplicativo mobile de força de vendas desenvolvido em Flutter seguindo Clean Architecture.
